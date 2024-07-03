@@ -28,8 +28,8 @@ In every TheLearningDev session, we will use a pre-existing resource. For this s
 
 ## Finally,
 
-1. Ask your questions here.
-2. Introduce yourself here.
+1. [Ask your questions here.](https://github.com/thelearningdev/build-your-de-project/discussions/categories/general-q-a)
+2. [Introduce yourself here.](https://github.com/thelearningdev/build-your-de-project/discussions/3)
 
 ## Tentative Agenda
 
@@ -43,3 +43,5 @@ Event Date : 7th July 2024 (IST hours)
 12:00 PM - 1:00 PM - Develop the pipeline
 1:00 PM - 1:15 PM - Discussing pipeline implementation
 1:15 PM - 1:30 PM - Sign off
+
+> if you've read this far and done all the steps, AMAZING! You're TheLearningDev, because reading things, trying them out and trusting the process are all the traits of TheLearningDev. Give yourself a pat on the back 
