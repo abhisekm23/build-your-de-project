@@ -4,18 +4,29 @@ Hi 👋🏻 Have you noticed this repo is empty? Yep, it's for our Co-learning s
 
 Ready?
 
+## What is TheLearningDev?
+
+What is it not?
+
+- This is not a bootcamp
+- This is not a workshop
+- This is not a meetup where people talk and talk and....
+- Definitely not a cohort-based course
+
+![image](https://github.com/thelearningdev/build-your-de-project/assets/10116000/1ded54cf-80ee-4e6c-8ac1-d413cfb3da24)
+
+In every TheLearningDev session, we will get together, use a pre-existing resource, a book, or a blog post, try to follow it along, make mistakes, get stuck, get unstuck, and just enjoy the process of learning
+
 ## What are we building
 
-In every TheLearningDev session, we will use a pre-existing resource. For this session, we will be using these two resources.
+For this session, we will be using these two resources.
 
 > Don't overwhelm yourself, if you understand nothing, you're in the right place. 
 
 1. https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/
 2. https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/
 
-- This is not a bootcamp
-- This is not a workshop
-- We get together and take one step at a time
+
 
 ## Prepare Yourself
 
