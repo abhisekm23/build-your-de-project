@@ -32,7 +32,7 @@ For this session, we will be using these two resources.
 
 ## Prepare Yourself
 
-1. If you need to know Python, yes classes level Python. If you don't already it's ok [Keep think Python book](https://greenteapress.com/thinkpython2/thinkpython2.pdf) next to you at all times
+1. You need to know Python, yes classes-level Python. If you don't already it's ok [Keep think Python book](https://greenteapress.com/thinkpython2/thinkpython2.pdf) next to you at all times. Google and ChatGPT everything
 2. You don't have to be a master of anything else, mark the event on your calendar and show up. That's it
 3. Notice and ***Remember this is not a bootcamp or your workshop. You can learn at your own pace with check-ins over Zoom.***
 
