@@ -56,7 +56,7 @@ For this session, we will be using these two resources.
 
 ## Tentative Agenda
 
-Event Date: 7th July 2024 (IST hours)
+Event Date: 6th July 2024 (Saturday) (IST hours)
 > Please be on time. The Zoom will be live 10 mins before the event
 
 - 10:30 AM:: Join Zoom and Settle in
