@@ -36,12 +36,12 @@ In every TheLearningDev session, we will use a pre-existing resource. For this s
 Event Date: 7th July 2024 (IST hours)
 > Please be on time. The Zoom will be live 10 mins before the event
 
-10:30 AM:: Join Zoom and Settle in
-10:40 AM - 11:00 AM - Understanding the Problem 
-11:00 AM - 11:45 AM - Setting the repo
-11:45 AM - 12:00 PM - Discussions on pipeline development
-12:00 PM - 1:00 PM - Develop the pipeline
-1:00 PM - 1:15 PM - Discussing pipeline implementation
-1:15 PM - 1:30 PM - Sign off
+- 10:30 AM:: Join Zoom and Settle in
+- 10:40 AM - 11:00 AM - Understanding the Problem 
+- 11:00 AM - 11:45 AM - Setting the repo
+- 11:45 AM - 12:00 PM - Discussions on pipeline development
+- 12:00 PM - 1:00 PM - Develop the pipeline
+- 1:00 PM - 1:15 PM - Discussing pipeline implementation
+- 1:15 PM - 1:30 PM - Sign off
 
 > If you've read this far and done all the steps, AMAZING! You're TheLearningDev, because reading things, trying them out and trusting the process are all the traits of TheLearningDev. Give yourself a pat on the back 
