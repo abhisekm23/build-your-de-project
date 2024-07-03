@@ -13,6 +13,10 @@ In every TheLearningDev session, we will use a pre-existing resource. For this s
 1. https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/
 2. https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/
 
+- This is not a bootcamp
+- This is not a workshop
+- We get together and take one step at a time
+
 ## Prepare Yourself
 
 1. If you need to know Python, yes classes level Python. If you don't already it's ok [Keep think Python book](https://greenteapress.com/thinkpython2/thinkpython2.pdf) next to you at all times
@@ -26,10 +30,15 @@ In every TheLearningDev session, we will use a pre-existing resource. For this s
 3. Clone this repo [Beginner DE Project](https://github.com/josephmachado/beginner_de_project)
 4. Visual Studio code or any other code editor ready.
 
-## Finally,
+## Introduce Yourself 
+
+1. [Introduce yourself here.](https://github.com/thelearningdev/build-your-de-project/discussions/3)
+2. Comment on someone else's introduction and make acquaintances
+
+## Got questions?
 
 1. [Ask your questions here.](https://github.com/thelearningdev/build-your-de-project/discussions/categories/general-q-a)
-2. [Introduce yourself here.](https://github.com/thelearningdev/build-your-de-project/discussions/3)
+2. Throughout the session, if you see a question that you can answer feel free too
 
 ## Tentative Agenda
 
