@@ -41,7 +41,8 @@ For this session, we will be using these two resources.
 1. Install Python
 2. Install Docker
 3. Clone this repo [Beginner DE Project](https://github.com/josephmachado/beginner_de_project)
-4. Visual Studio code or any other code editor ready.
+4. [Fork this repo and clone it](https://github.com/thelearningdev/build-your-de-project) - You can use this to write things from scratch. 
+5. Visual Studio code or any other code editor ready.
 
 ## Introduce Yourself 
 
