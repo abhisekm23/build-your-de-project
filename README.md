@@ -4,13 +4,7 @@ Hi 👋🏻 Have you noticed this repo is empty? Yep, it's for our Co-learning s
 
 Ready?
 
-## Few things to remember
-
-1. If you need to know Python, yes classes level Python. If you don't already it's ok [Keep think Python book](https://greenteapress.com/thinkpython2/thinkpython2.pdf) next to you at all times
-2. You don't have to be a master of anything else, mark the event on your calendar and show up. That's it
-3. Notice and ***Remember this is not a bootcamp or your workshop. You can learn at your own pace with check-ins over Zoom.***
-
-## The Project
+## What are we building
 
 In every TheLearningDev session, we will use a pre-existing resource. For this session, we will be using these two resources.
 
@@ -18,6 +12,12 @@ In every TheLearningDev session, we will use a pre-existing resource. For this s
 
 1. https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/
 2. https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/
+
+## Prepare Yourself
+
+1. If you need to know Python, yes classes level Python. If you don't already it's ok [Keep think Python book](https://greenteapress.com/thinkpython2/thinkpython2.pdf) next to you at all times
+2. You don't have to be a master of anything else, mark the event on your calendar and show up. That's it
+3. Notice and ***Remember this is not a bootcamp or your workshop. You can learn at your own pace with check-ins over Zoom.***
 
 ## Prepare Your Laptop
 
@@ -33,8 +33,8 @@ In every TheLearningDev session, we will use a pre-existing resource. For this s
 
 ## Tentative Agenda
 
-Event Date : 7th July 2024 (IST hours)
-> Please be on time. The zoom will be live 10 mins before the event
+Event Date: 7th July 2024 (IST hours)
+> Please be on time. The Zoom will be live 10 mins before the event
 
 10:30 AM:: Join Zoom and Settle in
 10:40 AM - 11:00 AM - Understanding the Problem 
@@ -44,4 +44,4 @@ Event Date : 7th July 2024 (IST hours)
 1:00 PM - 1:15 PM - Discussing pipeline implementation
 1:15 PM - 1:30 PM - Sign off
 
-> if you've read this far and done all the steps, AMAZING! You're TheLearningDev, because reading things, trying them out and trusting the process are all the traits of TheLearningDev. Give yourself a pat on the back 
+> If you've read this far and done all the steps, AMAZING! You're TheLearningDev, because reading things, trying them out and trusting the process are all the traits of TheLearningDev. Give yourself a pat on the back 
