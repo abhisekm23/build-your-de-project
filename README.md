@@ -6,16 +6,18 @@ Ready?
 
 ## What is TheLearningDev?
 
-What is it not?
+#### What is it not?
 
 - This is not a bootcamp
 - This is not a workshop
 - This is not a meetup where people talk and talk and....
 - Definitely not a cohort-based course
 
-![image](https://github.com/thelearningdev/build-your-de-project/assets/10116000/1ded54cf-80ee-4e6c-8ac1-d413cfb3da24)
+#### What it is?
 
 In every TheLearningDev session, we will get together, use a pre-existing resource, a book, or a blog post, try to follow it along, make mistakes, get stuck, get unstuck, and just enjoy the process of learning
+
+![image](https://github.com/thelearningdev/build-your-de-project/assets/10116000/1ded54cf-80ee-4e6c-8ac1-d413cfb3da24)
 
 ## What are we building
 
